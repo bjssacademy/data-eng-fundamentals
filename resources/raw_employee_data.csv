@@ -1,0 +1,9 @@
+EmployeeID,FirstName,LastName,Department,Salary,JoiningDate,age
+101,John,Doe,HR,50000,15/01/2020,45
+102,Jane,Smith,Finance,60000,22/03/2019,32
+103,Mike,Brown,IT,55000,30/07/2021,55
+104,Sara,Taylor,Marketing,70000,12/05/2020,44
+105,Tom,Wilson,Sales,65000,10/11/2018,23
+105,Tom,Wilson,Sales,65000,10/11/2018,29
+106,Dan,,,20000,01/01/2000,
+107,Ted,Tester,Testing,10000,07/07/2019,999
